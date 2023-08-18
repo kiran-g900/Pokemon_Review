@@ -1,0 +1,12 @@
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\bin\Debug\net6.0\LayerDAL.deps.json
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\bin\Debug\net6.0\LayerDAL.dll
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\bin\Debug\net6.0\LayerDAL.pdb
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.AssemblyReference.cache
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\LayerDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfoInputs.cache
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfo.cs
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.CoreCompileInputs.cache
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\LayerDAL.dll
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\refint\LayerDAL.dll
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\LayerDAL.pdb
+D:\NetCoreAPI\Pokemon_Review\LayerDAL\obj\Debug\net6.0\ref\LayerDAL.dll
